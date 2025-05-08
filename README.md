@@ -1,12 +1,12 @@
 # Cv
 
-## Download
-
 Hello,
 
 My name is Mattia, and I’m a full stack developer with a strong focus on React, component architecture, and developer experience. Over the years, I’ve worked on internal frameworks, GSAP-integrated design systems, and multi-tenant platforms — always trying to balance structure, creativity, and performance.
 
 I care about building things that last: scalable components, type-safe pipelines, clean dev workflows, and tools that make life easier for both engineers and content editors. I’m also exploring Rust and AI orchestration systems to improve performance and deepen my backend understanding.
+
+## Download
 
 **You can download the pdf of the CV here, just pick your style :)**
 
