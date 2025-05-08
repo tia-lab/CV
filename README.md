@@ -8,10 +8,6 @@ My name is Mattia, and I’m a full stack developer with a strong focus on React
 
 I care about building things that last: scalable components, type-safe pipelines, clean dev workflows, and tools that make life easier for both engineers and content editors. I’m also exploring Rust and AI orchestration systems to improve performance and deepen my backend understanding.
 
-If this way of thinking aligns with your approach, I’d be thankful for the chance to be part of it.
-
-Thank you for your time.
-
 **You can download the pdf of the CV here, just pick your style :)**
 
 > [cover and intro](https://cv-eki-studio.vercel.app)
