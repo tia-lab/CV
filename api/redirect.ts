@@ -7,7 +7,7 @@ export default async function handler() {
 	return new Response(null, {
 		status: 302,
 		headers: {
-			Location: 'https://cv-eki-studio/2025/intro.pdf'
+			Location: 'https://cv-eki-studio.vercel.app/2025/intro.pdf'
 		}
 	})
 }
