@@ -1,7 +1,6 @@
-// index.ts
 import { serve } from 'bun'
 
-//console.log('🚀 CV redirect server is running on http://localhost:3000')
+//console.log('CV redirect server is running on http://localhost:3000')
 
 serve({
 	fetch(request) {

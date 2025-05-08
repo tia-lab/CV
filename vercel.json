@@ -1,0 +1,11 @@
+{
+	"buildCommand": "bun install",
+	"installCommand": "bun install",
+	"outputDirectory": ".",
+	"routes": [
+		{
+			"src": "/(.*)",
+			"dest": "/index.ts"
+		}
+	]
+}
