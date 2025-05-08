@@ -133,8 +133,9 @@ I’ve had the opportunity to work across a variety of frontend, backend, and ar
 
 React, Next.js, TypeScript, GSAP, Zustand
 
-> I typically work with my own Sass-based starter built from TypeScript design objects, ensuring visual consistency and responsive flexibility from a single source of truth.  
-> I value accessible UI and scalable interfaces when needed — often using tools like Radix, React ARIA, and shadcn/ui depending on project requirements. Animations are handled with GSAP, layered directly into components and orchestration configs.
+_I typically work with my own Sass-based starter built from TypeScript design objects, ensuring visual consistency and responsive flexibility from a single source of truth._
+
+_I value accessible UI and scalable interfaces when needed — often using tools like Radix, React ARIA, and shadcn/ui depending on project requirements. Animations are handled with GSAP, layered directly into components and orchestration configs._
 
 **Backend**
 
