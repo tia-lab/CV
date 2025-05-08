@@ -10,19 +10,17 @@ I care about building things that last: scalable components, type-safe pipelines
 
 **You can download the pdf of the CV here, just pick your style :)**
 
-> [cover and intro](https://cv-eki-studio.vercel.app)
+[cover and intro](https://cv-eki-studio.vercel.app)
 
-> [theme --set neo-editorial (default)](https://cv-eki-studio.vercel.app/2025/themes/neo-editorial.pdf)
+[theme --set neo-editorial (default)](https://cv-eki-studio.vercel.app/2025/themes/neo-editorial.pdf)
 
-> [theme --set retro-cream](https://cv-eki-studio.vercel.app/2025/themes/retro-cream.pdf)
+[theme --set retro-cream](https://cv-eki-studio.vercel.app/2025/themes/retro-cream.pdf)
 
-> [theme --set garden-circuit](https://cv-eki-studio.vercel.app/2025/themes/garden-circuit.pdf)
+[theme --set garden-circuit](https://cv-eki-studio.vercel.app/2025/themes/garden-circuit.pdf)
 
-> [theme --set disco-terminal](https://cv-eki-studio.vercel.app/2025/themes/disco-terminal.pdf)
+[theme --set disco-terminal](https://cv-eki-studio.vercel.app/2025/themes/disco-terminal.pdf)
 
 ## Infos
-
-[info] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 [info] Mattia Chiesa
 
@@ -37,8 +35,6 @@ I care about building things that last: scalable components, type-safe pipelines
 [info] CH - 6616 Losone
 
 [info] https://github.com/tia-lab
-
-[info] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## About
 
@@ -88,9 +84,9 @@ This framework evolved from earlier animation-oriented work and brought GSAP to 
 
 To support this architecture, I also developed:
 
-> A TypeScript-to-Sass variable generator for breakpoints and design tokens
-> An environment switcher to support multi-tenancy across environments
-> Scripts for linting, formatting, and standardizing team workflows
+- A TypeScript-to-Sass variable generator for breakpoints and design tokens
+- An environment switcher to support multi-tenancy across environments
+- Scripts for linting, formatting, and standardizing team workflows
 
 I contributed multiple DatoCMS plugins, including one that integrated Formspree directly into the CMS, allowing editors to create and manage forms and responses without leaving the platform.
 
@@ -135,45 +131,45 @@ I’ve had the opportunity to work across a variety of frontend, backend, and ar
 
 **Frontend**
 
-> React, Next.js, TypeScript, GSAP, Zustand  
+React, Next.js, TypeScript, GSAP, Zustand
+
 > I typically work with my own Sass-based starter built from TypeScript design objects, ensuring visual consistency and responsive flexibility from a single source of truth.  
 > I value accessible UI and scalable interfaces when needed — often using tools like Radix, React ARIA, and shadcn/ui depending on project requirements. Animations are handled with GSAP, layered directly into components and orchestration configs.
 
 **Backend**
 
-> Node.js, Express, Payload CMS, REST & GraphQL APIs  
-> Also experienced with Laravel (API layer for PWA) and GROQ (used extensively during Sanity projects for custom querying and data shaping).  
-> Often working across multi-service environments, CMS integrations, and backend-connected frontends in monorepo setups.
+Node.js, Express, Payload CMS, REST & GraphQL APIs
+
+_Also experienced with Laravel (API layer for PWA) and GROQ (used extensively during Sanity projects for custom querying and data shaping)._
+_Often working across multi-service environments, CMS integrations, and backend-connected frontends in monorepo setups._
 
 **Architecture & Tooling**
 
-> Multi-tenant platforms, monorepo setups (Turborepo), CLI tools built with Ink, custom TS-to-Sass generators, and automated design token pipelines.  
-> Strong experience managing shared infrastructure, component-level animation systems, and internal framework architecture.
+Multi-tenant platforms, monorepo setups (Turborepo), CLI tools built with Ink, custom TS-to-Sass generators, and automated design token pipelines.
+
+_Strong experience managing shared infrastructure, component-level animation systems, and internal framework architecture._
 
 **Databases & Dev Infrastructure**
 
-> Turso (SQLite edge), Neon (PostgreSQL), Pinecone (vector search), LRU caching  
-> Vercel for CI/CD and deployment, GitHub Actions for automation.
-> stack
+Turso (SQLite edge), Neon (PostgreSQL), Pinecone (vector search), LRU caching, Vercel for CI/CD and deployment, GitHub Actions for automation.
 
 **AI & ML (in porogress)**
 
-> LangChain, OpenAI, Anthropic, Gemini integration  
-> Building orchestration systems with provider fallback, health checks, typed memory layers, and model selection logic.  
-> Working toward a modular framework for building AI-native apps with semantic memory and custom model support.
+LangChain, OpenAI, Anthropic, Gemini integration  
+_Building orchestration systems with provider fallback, health checks, typed memory layers, and model selection logic.Working toward a modular framework for building AI-native apps with semantic memory and custom model support._
 
 **CMS Platforms**
 
-> DatoCMS, Sanity, TYPO3 (data-only), Payload
+DatoCMS, Sanity, TYPO3 (data-only), Payload
 
 **Ancillary Tools**
 
-> Framer, historical Webflow experience, PostCSS, React animation libraries like Framer Motion and React Spring, Prismic.
+Framer, historical Webflow experience, PostCSS, React animation libraries like Framer Motion and React Spring, Prismic.
 
 **Currently Exploring**
 
-> Rust for systems programming, CLI tooling, and backend services.  
-> Expanding my skills in applied AI — from neural model training to scalable architectures for AI-powered applications.
+Rust for systems programming, CLI tooling, and backend services.
+Expanding my skills in applied AI — from neural model training to scalable architectures for AI-powered applications.
 
 ## Selected works
 
@@ -183,34 +179,34 @@ A selection of projects I contributed to during my time at Vovi Studio and SPOT 
 
 **Vovi Studio**
 
-> [Plank](https://www.joinplank.com/)
+[Plank](https://www.joinplank.com/)
 
-> [Axis Arbor (SOTD, DEV)](https://www.axarb.com/)
+[Axis Arbor (SOTD, DEV)](https://www.axarb.com/)
 
-> [Black Cube](https://www.blackcube.com/)
+[Black Cube](https://www.blackcube.com/)
 
-> [GetYourGuide – Careers](https://www.getyourguide.careers/)
+[GetYourGuide – Careers](https://www.getyourguide.careers/)
 
-> [8VC](https://www.8vc.com/)
+[8VC](https://www.8vc.com/)
 
-> [PrimaryBid](https://www.primarybid.com/)
+[PrimaryBid](https://www.primarybid.com/)
 
 ---
 
 **SPOT Werbung**
 
-> [Engadin](https://www.engadin.ch) — multi-tenant tourism platforms  
->  → Shared infrastructure also powering sils.ch, freestylestmoritz2025.ch, and others
+[Engadin](https://www.engadin.ch) — multi-tenant tourism platforms  
+ → Shared infrastructure also powering sils.ch, freestylestmoritz2025.ch, and others
 
-> [Beatus](https://www.beatus.ch) & [Ermitage](https://www.ermitage.ch) — multi-tenant hotel platforms
+[Beatus](https://www.beatus.ch) & [Ermitage](https://www.ermitage.ch) — multi-tenant hotel platforms
 
-> [Skischule St. Moritz](https://www.skischool.ch)
+[Skischule St. Moritz](https://www.skischool.ch)
 
-> [Ticino Ticket](https://my.ticino.ch) — rebuilt PWA
+[Ticino Ticket](https://my.ticino.ch) — rebuilt PWA
 
-> [CSCS Reports](https://report2023.cscs.ch/)
+[CSCS Reports](https://report2023.cscs.ch/)
 
-> [Davos](https://www.davos.ch) — early collaboration around a Nuxt-based starter
+[Davos](https://www.davos.ch) — early collaboration around a Nuxt-based starter
 
 Alongside client work, I actively supported the evolution of our internal tooling and development standards.
 
@@ -247,10 +243,10 @@ The long-term goal is to create a CMS framework that makes it easier to move fro
 
 **Languages**
 
-> Italian – Native  
-> French – Fluent  
-> English – Fluent  
-> German – Learning
+- Italian – Native
+- French – Fluent
+- English – Fluent
+- German – Learning
 
 **GitHub**
 
@@ -259,7 +255,8 @@ https://github.com/tia-lab
 
 **Contact**
 
-tia@eki.studio - +41 79 380 99 35
+[tia@eki.studio](mailto:tia@eki.studio)
+[+41 79 380 99 35](tel:0041793809935)
 
 **Closing Notes**
 
